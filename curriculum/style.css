@@ -1,5 +1,5 @@
 :root {
-    --blu-custom: #394E65;
+    --blu-custom: rgb(57, 78, 101);
     --color-aqua: rgb(26, 194, 232);
 }
 
@@ -21,7 +21,8 @@ a {
 .name {
     font-size: 6rem !important;
     font-weight: 900 !important;
-    color: var(--blu-custom) !important;
+    /* color: var(--blu-custom) !important; */
+    color: white !important;
 }
 
 @media (max-width: 767px) {
